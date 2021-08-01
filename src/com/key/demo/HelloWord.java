@@ -12,5 +12,6 @@ public class HelloWord {
         System.out.println("HelloWord!");
         System.out.println("你好，Git！");
         System.out.println("分支测试！");
+        System.out.println("GitHub拉取项目到idea");
     }
 }
